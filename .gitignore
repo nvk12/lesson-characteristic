@@ -1,0 +1,33 @@
+#
+# Java
+#
+*.class
+*.jar
+
+.idea
+*.iml
+
+#
+# Compiled files directory
+#
+target/
+bin/
+
+#
+# Eclipse
+#
+.settings/
+.metadata/
+.project
+.springBeans
+.classpath
+*.local.properties
+*.log
+*.log.*
+
+#
+# OS generated files
+#
+.DS_Store
+Icon?
+Thumbs.db
