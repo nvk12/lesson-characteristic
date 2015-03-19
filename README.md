@@ -5,7 +5,7 @@
 Над створенням програми працював: Лагодюк Юрій Вікторович (yura.lagodiuk@gmail.com)
 
 ### Початок роботи ###
-1. Завантажити архів з програмою: https://github.com/nvk12/lesson-characteristic/blob/master/target/lesson-analiz-generator.zip?raw=true
+1. Завантажити архів з програмою: https://github.com/nvk12/lesson-analiz-generator/blob/master/target/lesson-analiz-generator.zip?raw=true
 2. Розархівувати завантажений архів
 3. Запустити *generator.jar* (для операційної системи Windows - можна запускати програму, використовуючи *start.bat*)
 
