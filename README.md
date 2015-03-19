@@ -25,4 +25,4 @@
 
 ### Графічний інтерфейс програми: ###
 Графічний інтерфейс програми місить текстове поле для введення числового коду, кнопку яка відповідає за запуск алгоритму генерування тексту, а також текстове поле для відображення згенерованого тексту. На даному зображенні наведено приклад роботи програми:
-![Screenshot](https://raw.githubusercontent.com/nvk12/lesson-characteristic/master/info/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/nvk12/lesson-analiz-generator/master/info/screenshot.png)
